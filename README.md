@@ -1,6 +1,13 @@
-- 👋 I am Papila Ghising
-- 👀 I am Cloud/DevOps Engineer
-- 🌱 I am currently learning as well as working with Cloud Services,Containerization,Logging and Monitoring,CICD and DevOps tools
-- 📫 Reach me at papilaghising1111@gmail.com if you have something interesting to collaborate on
-- ⚡ Fun fact: I can be funny
+🚀 I'm a Cloud/DevOps Engineer passionate about building scalable, reliable, and automated infrastructure.
+
+🌱 Currently learning and working with:
+- Cloud Services (AWS)
+- Containerization (Docker, Kubernetes)
+- CI/CD Pipelines
+- Logging & Monitoring Tools
+- DevOps best practices
+
+📫 Reach out at **papilaghising1111@gmail.com** — open to exciting collaboration opportunities!
+
+⚡ Fun fact: I have a sense of humor (and I use it responsibly 😄)
 
